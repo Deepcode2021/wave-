@@ -19,7 +19,7 @@ body {
   position: relative;
   background: #333333;
   color: white;
-  height: 80vh;
+  height: 100vh;
   display: flex;
   align-items: center;
   overflow: hidden;
