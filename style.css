@@ -3,6 +3,12 @@ $button-bg: $fuschia;
 $button-text-color: #fff;
 $baby-blue: #f8faff;
 
+.bubbly-button {
+  font-size: 30px;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  text-align: center;
+  Position: absolute;
+  background-color: $baby-blue;
 }
 .bubbly-button{
   font-family: 'Helvetica', 'Arial', sans-serif;
