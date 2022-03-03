@@ -19,7 +19,7 @@ body {
   position: relative;
   background: #333333;
   color: white;
-  height: 200vh;
+  height: 80vh;
   display: flex;
   align-items: center;
   overflow: hidden;
@@ -60,7 +60,7 @@ body {
   content: '';
   position: absolute;
   width: 300vw;
-  height: 400vw;
+  height: 500vw;
   top: -65vw;
   left: 50%;
   transform: translate(-50%, -75%);
