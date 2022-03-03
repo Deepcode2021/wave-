@@ -28,7 +28,7 @@ body {
 .hero h2 {
   position: relative;
   z-index: 1;
-  font-size: 4.5rem;
+  font-size: 4.6rem;
   margin: 0 0 10px;
   line-height: 1;
   color: rgba(255, 255, 255, 0.9);
@@ -37,7 +37,7 @@ body {
 .hero p {
   position: relative;
   z-index: 1;
-  font-size: 1.1rem;
+  font-size: 2.5rem;
   color: rgba(255, 255, 255, 0.5);
   line-height: 1.4;
 }
